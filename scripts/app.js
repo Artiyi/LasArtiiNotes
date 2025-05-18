@@ -1,1 +1,1 @@
-document.getElementById('app').textContent = 'Bienvenido a LasArtiiNotes. Aquí irá la lógica en la próxima entrega.';
+document.getElementById('app').textContent = 'LasArtiiNotes funcional listo para usar.';
