@@ -1,1 +1,0 @@
-document.getElementById('app').textContent = 'LasArtiiNotes UI/UX reconstruida y lista para subir.';
